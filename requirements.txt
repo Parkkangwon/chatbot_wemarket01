@@ -1,3 +1,8 @@
 streamlit
-openai
+speech_recognition
+pyttsx3
+os
+time
 requests
+re
+
