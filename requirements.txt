@@ -1,6 +1,6 @@
 streamlit>=1.32
 openai>=1.30
-requests>=2.31
+requests
 speech_recognition
 pyttsx3
 os
