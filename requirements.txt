@@ -1,8 +1,9 @@
-streamlit
 speech_recognition
 pyttsx3
 os
 time
-requests
 re
+streamlit>=1.32
+openai>=1.30
+requests>=2.31
 
