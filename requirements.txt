@@ -2,7 +2,5 @@ streamlit
 openai
 requests
 pyttsx3
-os
 time
 re
-SpeechRecognition==3.8.1
